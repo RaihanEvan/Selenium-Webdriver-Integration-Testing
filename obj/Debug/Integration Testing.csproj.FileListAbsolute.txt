@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Integration Testing\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Mono.Cecil.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\nunit.core.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\nunit.core.interfaces.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\nunit.util.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Integration Testing.pdb
+C:\Users\User\source\repos\Integration Testing\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\Integration Testing\bin\Debug\nunit.framework.pdb
+C:\Users\User\source\repos\Integration Testing\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\Integration Testing\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\Integration Testing\obj\Debug\Integration Testing.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Integration Testing\obj\Debug\Integration Testing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Integration Testing\obj\Debug\Integration Testing.csproj.CopyComplete
+C:\Users\User\source\repos\Integration Testing\obj\Debug\Integration Testing.pdb
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Integration Testing.dll.config
+C:\Users\User\source\repos\Integration Testing\bin\Debug\Integration Testing.dll
+C:\Users\User\source\repos\Integration Testing\obj\Debug\Integration Testing.dll
